@@ -1,5 +1,7 @@
 # Montage Studio X Publisher
 
+Optional companion for [Montage Studio](https://github.com/mysticalg/Montage-Studio), available for Windows, macOS and Linux. [Download the extension ZIP](https://github.com/mysticalg/Montage-Studio-X-Extension/releases/latest), extract it, then load the extracted folder as explained below. Application source and installation instructions: [Montage Studio website](https://mysticalg.github.io/Montage-Studio/).
+
 Install this folder in the Chrome or Edge profile where you sign into X. No X developer account or API credits are used.
 
 1. Open `chrome://extensions` (Chrome) or `edge://extensions` (Edge).
